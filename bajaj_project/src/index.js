@@ -12,9 +12,9 @@ app.use(bodyParser.json());
 // In-memory user storage
 let user = {
     is_success: true,
-    user_id: "Naman_Gupta",
-    email: "namangupta.0920@gmail.com",
-    roll_number: "2237411",
+    user_id: "Mohd_Azharuddin",
+    email: "2236886.cse.cec@cgc.edu.in",
+    roll_number: "2236886",
 };
 
 let alphabets = [];

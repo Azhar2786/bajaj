@@ -39,7 +39,7 @@ const App = () => {
 
   return (
     <div style={{ padding: "20px", maxWidth: "600px", margin: "auto" }}>
-      <h1>Bajaj API Challenge</h1>
+      <h1>Bajaj Data Manager</h1>
 
       <label>Enter JSON Data:</label>
       <textarea
